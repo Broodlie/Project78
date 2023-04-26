@@ -1,9 +1,9 @@
 # Project78
  
 
-Voor project 78 hebben we als opdracht gekregen om sensoren toetepassen bij een simulatie opstelling voor het afbouwen en opbouwen van de duinen. 
+Voor project 78 hebben we als opdracht gekregen om sensoren toe te passen bij een simulatie opstelling voor het afbouwen en opbouwen van de duinen. 
 
-Hierbij hebben we een gui gemaakt waar alle sensor waardes op gezien gaan worden. 
+Hierbij hebben we een gui gemaakt waar alle sensoren hun waardes op gezien gaan worden. 
 
 Ook hebben we een windsnelheid sensor toegepast en zijn we bezig met een bezuiging hiervoor.
 De module met de sensor gaat zijn waardes draadloos met behulp van wifi versturen naar de gui.
